@@ -1,0 +1,7 @@
+{
+    "files.autoSave": "onFocusChange",
+    "files.associations": {
+        "ios": "cpp",
+        "random": "cpp"
+    }
+}
